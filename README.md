@@ -1,2 +1,0 @@
-# AT_DDDA_FA
-AT DDDA FastAPI
